@@ -1,6 +1,6 @@
 Hello. Currently exchanging links with friends or mutual follows :sparkles:. 
 
-If you are a friend and would like to exchange links, please send a pull request to add your banner. 
+If you are a friend and would like to exchange links, please [send a pull request](https://github.com/muan/muan/edit/master/README.md) to add your banner. 
 
 Your banner should be an 88x31px (176x62 @2x) rectanglar image, and be wrapped in a link to your GitHub profile page. The image can theoritically be an animated GIF, but please don't use anything too distracting. If you want to use a white background, please add a border so it would not float in space. Finally, in the code, make sure to give the image tag fixed dimensions.
 
