@@ -15,4 +15,4 @@ HTML:
 ```
 
 For reference:
-- [Wikipedia: Link exhcnage](https://en.wikipedia.org/wiki/Link_exchange)
+- [Wikipedia: Link exchange](https://en.wikipedia.org/wiki/Link_exchange)
