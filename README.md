@@ -1,6 +1,6 @@
 <samp>
 
-<sub>I work on this website. Most of my GitHub followers are from [this GitHub Guide](https://guides.github.com/activities/socialize/).</sub>
+<sub>I work on this website. Most people followed me on this website because I am on [this page](https://guides.github.com/activities/socialize/).</sub>
 
 <sub>Link exchange with friends<sup>[?](https://github.com/muan/muan/blob/master/LINK_EXCHANGE.md)</sup>:</sub>
 
