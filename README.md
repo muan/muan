@@ -2,8 +2,6 @@
 
 <sub>I work on this website. Most of my GitHub followers are from [this GitHub Guide](https://guides.github.com/activities/socialize/).</sub>
 
----
-
 <sub>Link exchange with friends<sup>[?](https://github.com/muan/muan/blob/master/LINK_EXCHANGE.md)</sup>:</sub>
 
 <a href="https://github.com/gjtorikian"><img alt="Garen Torikian" width="88" height="31" src="https://user-images.githubusercontent.com/1153134/84700511-4420c000-af21-11ea-9d2e-79707793515d.png"></a>
